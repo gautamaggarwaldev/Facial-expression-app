@@ -59,6 +59,7 @@ This web application analyzes facial expressions in real-time using the device c
 2.  **Results:**
     * The results are displayed as bar percentages, showing the probability of each detected emotion (e.g., happy, sad, angry, neutral, etc.).
 
+
 ## Screenshots
 
 ![image-1](public/assets/image1.png)
