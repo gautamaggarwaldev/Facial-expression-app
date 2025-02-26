@@ -61,9 +61,9 @@ This web application analyzes facial expressions in real-time using the device c
 
 ## Screenshots
 
-![image](public/assets/Screenshot 2025-02-26 134512.png)
-![image](public/assets/Screenshot 2025-02-26 134529.png)
-![image](public/assets/Screenshot 2025-02-26 134615.png)
+![image-1](/public/assets/image1.png)
+![image-2](/public/assets/image2.png)
+![image-3](/public/assets/image3.png)
 
 
 ## Project Structure
